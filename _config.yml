@@ -28,9 +28,9 @@ url: "https://cloudskillsup.github.io" # the base hostname & protocol for your s
 
 twitter_username: prashantchirde
 
-youtube: howazureworks
-youtube_channel: UCmVtcTQwu-uHrT_oYRA9WYw
-youtube_channel_name: howazureworks
+# youtube: howazureworks
+# youtube_channel: UCmVtcTQwu-uHrT_oYRA9WYw
+# youtube_channel_name: howazureworks
 
 # Build settings
 theme: minima
