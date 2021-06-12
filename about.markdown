@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 								
-
+![image](https://user-images.githubusercontent.com/85791172/121781518-cdb1af00-cbc2-11eb-9ab3-e02e4bd54a83.png)
 
 I am having 12 years of IT experience. Working on the Architect Designing for application deployment and migration strategy of the application from on-prem to the Azure environment for multiple clients.
 
@@ -35,5 +35,5 @@ Reach out to me directly to discuss your next experience.
 
 📥 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 me here on LinkedIn.
 📧 𝗘𝗺𝗮𝗶𝗹: Prashant.chirde@hotmail.com
-![image](https://user-images.githubusercontent.com/85791172/121781518-cdb1af00-cbc2-11eb-9ab3-e02e4bd54a83.png)
+
 
