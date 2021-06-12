@@ -25,10 +25,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   where I am sharing the Azure knowldge to the community.
 baseurl: "cloudskillsup" # the subpath of your site, e.g. /blog
 url: "https://cloudskillsup.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: prashantchirde
-youtube: howazureworks
-youtube_channel: UCmVtcTQwu-uHrT_oYRA9WYw
-youtube_channel_name: howazureworks
+social_links:
+  twitter_username: prashantchirde
+  youtube: howazureworks
+  youtube_channel: UCmVtcTQwu-uHrT_oYRA9WYw
+  youtube_channel_name: howazureworks
 
 # Build settings
 theme: minima
