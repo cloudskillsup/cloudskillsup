@@ -4,10 +4,8 @@ title: About
 permalink: /about/
 ---
  
-
-![image](https://user-images.githubusercontent.com/85791172/121782319-96450180-cbc6-11eb-8b3c-48b18c6bebfa.png)
-
-								
+![image](https://user-images.githubusercontent.com/85791172/121782384-defcba80-cbc6-11eb-8577-ada85837ca47.png)
+					
 
 
 I am having 12 years of IT experience. Working on the Architect Designing for application deployment and migration strategy of the application from on-prem to the Azure environment for multiple clients.
