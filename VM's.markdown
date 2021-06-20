@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: VM
+permalink: /vm/
 ---
 
 
