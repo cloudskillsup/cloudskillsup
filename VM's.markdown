@@ -17,7 +17,7 @@ permalink: /vm/
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s4IoOGvVQ_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##Azure VM High Availability Demo - Part2
+## Azure VM High Availability Demo - Part2
    
   <iframe width="560" height="315" src="https://www.youtube.com/embed/f7uwkroNQYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
