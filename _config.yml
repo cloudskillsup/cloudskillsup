@@ -33,7 +33,7 @@ twitter_username: prashantchirde
 # youtube_channel_name: howazureworks
 
 # Build settings
-theme: minima
+theme: jekyll-theme-time-machine
 plugins:
   - jekyll-feed
 
