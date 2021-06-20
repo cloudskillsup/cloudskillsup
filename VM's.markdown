@@ -21,3 +21,6 @@ permalink: /vm/
    
   <iframe width="560" height="315" src="https://www.youtube.com/embed/f7uwkroNQYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
+**Virtual Machine Scale Sets- part-1**
+
+> [!VIDEO https://www.youtube.com/embed/O9eu5uXuuVk]https://www.youtube.com/embed/O9eu5uXuuVk
